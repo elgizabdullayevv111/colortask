@@ -1,0 +1,21 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial;
+}
+
+ol {
+    width: 400px;
+    margin: auto;
+    list-style-position: inside;
+}
+
+li {
+    padding: 15px;
+    font-size: 18px;
+}
+li:hover {
+    background: white !important;
+    color: black !important;
+    cursor: pointer;
+    transition: 0.3s;
+}
